@@ -13,6 +13,7 @@ This course introduces students to the capabilities of analyzing remotely-sensed
 
 Students will execute analyses in Google Earth Engine, primarily using GEE's JavaScript API. The curriculum emphasizes practical applications and hands-on learning, culminating in an independent research project. In this project, students will utilize GEE datasets related to natural hazards to conduct their own analyses on a hazard of interest, integrating the skills and knowledge acquired throughout the course.
 
+---
 
 ###  Course Texts
 - **Required Texts**: None
