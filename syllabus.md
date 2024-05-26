@@ -3,24 +3,13 @@ title: Syllabus
 layout: default
 nav_order: 2
 ---
-# GEOG 215: Introduction to Spatial Data Science: Summer 2024 Session I
+# GEOGXXX: Remote Sensing of Natural Hazards
 
-Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/file/d/1JN2sbvt8tCKrmqJ2T0SUtKgbs9WN-_yk/view?usp=sharing)
+Abbreviated Syllabus [Download full syllabus here]()
 
-
-### Course Information
-- **Meeting Pattern**: M-F 9:45am-11:15am
-- **Instructional Format**: Options: In-person, Remote Synchronous
-- **Classroom or Location**: Carolina Hall 220 or [Zoom Link](https://unc.zoom.us/j/98590343821)
-
-### Instructor Information
-- **Name**: Julia Cardwell
-- **Office**: Coates Building 201-B or [Zoom](https://unc.zoom.us/j/2724389665)
-- **Office Hours**: T, TH  11:45am-1:30pm, other days by appointment
-- **Email**: [jmcard@email.unc.edu](mailto:jmcard@email.unc.edu)
 
 ### Course Description
-This course introduces students to data science with a focus on spatial (geographic) data. We will explore various facets of data science practice including data collection, management and integration, descriptive modeling, exploratory spatial data analysis, and communication via visualization and mapping using real-world datasets.
+This course introduces students to the capabilities of remotely-sensed data (and other spatial gridded data products) for 
 
 ###  Course Texts
 - **Required Texts**: None
@@ -30,34 +19,24 @@ This course introduces students to data science with a focus on spatial (geograp
 
 ### Course Goals and Learning Outcomes
 Students will:
-- Use R for exploring spatial data.
+- Use Google Earth Engine for exploring remotely sensed data and other gridded spatial data products 
 - Develop spatially oriented research questions.
 - Identify and utilize publicly available spatial data.
 - Clean, organize, and analyze spatial data.
 - Perform and interpret exploratory spatial data analysis techniques.
 
-### IDEAs in Action - Quantitative Reasoning
-- Summarize and present quantitative data in various mathematical forms.
-- Develop and compute representations of data using mathematical models.
-- Make and evaluate assumptions in data analysis and understand result limitations.
-- Apply concepts to make judgments and draw conclusions.
-- Synthesize and present data to support a position.
-
 ---
 
 ### Grade Breakdown
 
-**Class Participation (20%):**
+**Class Participation (25%):**
 The participation component of the course grade will be made up of in-class participation, as well as effort on in-class
 exercises.
 
-**Assignments (35%):**
-There will be 5 assignments that will be completed throughout the course and will be graded on accuracy. These
+**Labs (50%):**
+There will be 8 labs that will be completed throughout the course and will be graded on accuracy. These
 assignments are designed to have students independently implement skills learned through course material and in-class
 exercises.
-
-**Tests (20%):**
-There will be two closed-book tests on course concepts during the semester.
 
 **Project Tasks (10%):**
 Project tasks will allow students to iteratively develop their final projects throughout the course of the semester. Each
