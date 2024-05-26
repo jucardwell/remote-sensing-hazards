@@ -1,8 +1,8 @@
 ---
-title: Lab 1
+title: Lab 2
 layout: default
 parent: Labs
-nav_order: 1
+nav_order: 2
 ---
 
 <style>
