@@ -24,11 +24,8 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 ### Course Goals and Learning Outcomes
 Students will:
 - Use Google Earth Engine for exploring remotely sensed data and other gridded spatial data products 
-- Develop spatially oriented research questions.
-- Identify and utilize publicly available spatial data.
-- Clean, organize, and analyze spatial data.
-- Perform and interpret exploratory spatial data analysis techniques.
-
+- Understand important topics in remote sensing and natural hazards/disaster studies
+- 
 ---
 
 ### Grade Breakdown
