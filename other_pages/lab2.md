@@ -19,7 +19,7 @@ You can download a shapefile of the August Complex Fire [here](https://drive.goo
 ------------------------------------------------------------------------
 ### Your Google Earth Engine Script should:
 1.	Add the August Complex Fire extent shapefile as an asset in GEE.
-2.	Use GEE filtering to select a Landsat 8 image that covers the fire extent area, has limited cloud cover, and was relatively soon after the fire.  
+2.	Use GEE filtering to select a Landsat 8 image that covers the fire extent area, has limited cloud cover, and was relatively soon after the fire.   
 3.	Clip this image to the fire extent.
 4.	Calculate the NBR on the image (https://www.usgs.gov/landsat-missions/landsat-normalized-burn-ratio)
 5.	Create a well-visualized map of the NBR in the study area. 
