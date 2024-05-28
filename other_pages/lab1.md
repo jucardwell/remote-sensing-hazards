@@ -12,7 +12,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 ------------------------------------------------------------------------
 ## Lab 1
 
-In this lab, you will use GRIDMET data to calculate the mean temperature and precipitation values for the United States from 1980-2020. You will create maps of these values and calculate mean values for each US county. You can download a shapefile of US counties [here](. Remember, you will need to upload this as an "asset" in Google Earth Engine. 
+In this lab, you will use GRIDMET data to calculate the mean temperature and precipitation values for the United States from 1980-2020. You will create maps of these values and calculate mean values for each US county. You can download a shapefile of US counties [here](https://drive.google.com/uc?export=download&id=1NUDtSHKRC9Lmgm9vx8wAtDRIIUA4ElGn)
 
 GRIDMET is a gridded surface meteorological dataset that provides daily estimates of temperature, precipitation, winds, humidity, and radiation across the US. GRIDMET data is not necessarily remote sensing data in the traditional sense, as it does not involve direct observation of the Earth’s surface from satellites or aircraft. Instead, GRIDMET combines observational data from weather stations, satellite-derived information, and atmospheric reanalysis models.
 
@@ -21,8 +21,9 @@ GRIDMET is a gridded surface meteorological dataset that provides daily estimate
 1.	Load the GRIDMET data as an .ImageCollection() variable (https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET#bands)
 2.	Filter the GRIDMET data to only include images from 1980-2020
 3.	Create two composite images—one representing mean temperature (which is represented in degrees Kelvin), and one representing mean precipitation (which is represented in millimeters).
-4.	Create two well-visualized maps. One represents mean daily temperature, and one represents mean daily precipitation. 
-5.	Use the .reduceRegions function to calculate the mean value of your two composites in US counties and export this as an .csv file. 
+4.	Create two well-visualized maps. One represents mean daily temperature, and one represents mean daily precipitation.
+5.	Upload the US counties shapefile as an asset. 
+6.	Use the .reduceRegions function to calculate the mean value of your two composites in US counties and export this as an .csv file. 
 
 
 ### Your lab report should include:
@@ -33,4 +34,5 @@ GRIDMET is a gridded surface meteorological dataset that provides daily estimate
 
 
 You will submit your GEE script, your .csv file, and your completed lab report. Your lab report should be approximately 500 words. 
+You should cite your sources in APA format and include at least 1 peer-reviewed article. 
 
