@@ -23,9 +23,11 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 
 ### Course Goals and Learning Outcomes
 Students will:
-- Use Google Earth Engine for exploring remotely sensed data and other gridded spatial data products 
-- Understand important topics in remote sensing and natural hazards/disaster studies
-- 
+- Use JavaScript to access Google Earth Engine's API and manipulate and visualize gridded data products related to natural hazards/disasters
+- Understand the history and development of the field of remote sensing, including more recent developments like critical remote sensing and existing data sources
+- Be familiar with important topics in remote sensing, such as radiometry, spectral signatures, and the electromagnetic spectrum
+- Be able to apply common remote sensing analytical techniques, such as image classification, calculating indices, change detection, and machine learning techniques
+- Be familiar with the field of disaster studies and be able to apply remote sensing analytical techniques within this framework
 ---
 
 ### Grade Breakdown
