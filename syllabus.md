@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # GEOGXXX: Remote Sensing of Natural Hazards
 
-Abbreviated Syllabus [Download full syllabus here]()
+Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/uc?export=download&id=1oMc3il3Vud_Tdo0jZqnXBOZrLb_AqLcd)
 
 
 ### Course Description
