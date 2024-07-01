@@ -25,8 +25,8 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 ### Course Goals and Learning Outcomes
 By the end of the course, students will be able to:
 - Understand the common environmental and social impacts of natural hazards and disasters, and how these impacts may evolve due to climate change.
-- Gain knowledge of key concepts in remote sensing, including radiometry, spectral signatures, and the electromagnetic spectrum, and appreciate the history and development of the field.
-- Apply essential remote sensing analytical techniques, such as image classification, calculating indices, change detection, and machine learning methods, to real-world scenarios involving natural hazards.
+- Gain knowledge of key concepts in remote sensing, including radiometry, spectral signatures, and the electromagnetic spectrum, and understnad the history and development of the field (including more recent developments like critical remote sensing)
+- Apply essential remote sensing analytical techniques, such as image classification, calculating indices, change detection, and temporal analysis, to real-world scenarios involving natural hazards.
 - Use JavaScript to access and manipulate Google Earth Engine's API for visualizing and analyzing gridded data products related to natural hazards and disasters.
 - Develop and refine effective techniques to present and interact with their analysis results, including through the use of Google Earth Engine Applications.
 ---
