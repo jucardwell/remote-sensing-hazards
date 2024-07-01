@@ -26,11 +26,11 @@ nav_order: 3
 | 24    | 12   | Lab- Aggregating Data (Urban Heat)                             |                               | TBD      |
 | 17    | 9    | Sensing Natural Hazards- Change Detection                      |Ex 13: Change Detection  | TBD      |
 | 18    | 9    | Lab: Change Detection (Flooding)                               || TBD      |
-| 19    | 10   | Sensing Natural Hazards- Presenting Results Pt. 2          || TBD      |
-| 20    | 10   | Lab- Change Detection (Nightime Lights after Hurricane)                      | | TBD      |
-| 21    | 11   | Sensing Natural Hazards- Classification                 | | TBD      |
-| 22    | 11   | Lab- Supervised Classification (                               || TBD      |
-| 25    | 13   | Sensing Natural Hazards- Machine Learning                      || TBD      |
-| 26    | 13   | Lab- Machine Learning (Land Use Change under Climate Change Scenarios) | | TBD      |
+| 19    | 10   | Sensing Natural Hazards- Supervised Classification         || TBD      |
+| 20    | 10   | Lab- Change Detection (XXXXX)                      | | TBD      |
+| 21    | 11   | Sensing Natural Hazards- Presenting Results- Dashboards  | Ex 14: GUI Development| TBD      |
+| 22    | 11   | Lab- GUI Development                             || TBD      |
+| 25    | 13   | Developing a GUI for your Final Project                     || TBD      |
+| 26    | 13   | GUI Workday | | TBD      |
 | 27    | 14   | Presentations                                                  || TBD      |
 | 28    | 14   | Presentations                                                  || TBD      |
