@@ -9,9 +9,10 @@ Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/uc?e
 
 
 ### Course Description
-This course introduces students to the capabilities of analyzing remotely-sensed and other spatial gridded data products through Google Earth Engine (GEE). With a focus on utilizing these data products to monitor the impacts of natural hazards, the course combines comprehensive remote sensing topics—including theory, data acquisition, and data analysis—with a deep understanding of natural hazards, their potential to become disasters, and the remote sensing products available for monitoring these events and their environmental impacts.
+This course introduces students to the capabilities of analyzing remotely-sensed and other spatial gridded data products through Google Earth Engine (GEE). With a focus on utilizing these data products to monitor the impacts of natural hazards, the course combines comprehensive remote sensing topics—including theory, data acquisition, and data analysis—with a deep understanding of natural hazards (including their potential to become disasters), and the remote sensing products available for monitoring these events and their environmental impacts.
 
 Students will execute analyses in Google Earth Engine, primarily using GEE's JavaScript API. The curriculum emphasizes practical applications and hands-on learning, culminating in an independent research project. In this project, students will utilize GEE datasets related to natural hazards to conduct their own analyses on a hazard of interest, integrating the skills and knowledge acquired throughout the course.
+
 
 ---
 
@@ -22,12 +23,12 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 ---
 
 ### Course Goals and Learning Outcomes
-Students will:
-- Use JavaScript to access Google Earth Engine's API and manipulate and visualize gridded data products related to natural hazards/disasters
-- Understand the history and development of the field of remote sensing, including more recent developments like critical remote sensing and existing data sources
-- Become familiar with important topics in remote sensing, such as radiometry, spectral signatures, and the electromagnetic spectrum
-- Learn to apply common remote sensing analytical techniques, such as image classification, calculating indices, change detection, and machine learning techniques
-- Become familiar with the field of disaster studies and be able to apply remote sensing analytical techniques within this framework
+By the end of the course, students will be able to:
+- Understand the common environmental and social impacts of natural hazards and disasters, and how these impacts may evolve due to climate change.
+- Gain knowledge of key concepts in remote sensing, including radiometry, spectral signatures, and the electromagnetic spectrum, and appreciate the history and development of the field.
+- Apply essential remote sensing analytical techniques, such as image classification, calculating indices, change detection, and machine learning methods, to real-world scenarios involving natural hazards.
+- Use JavaScript to access and manipulate Google Earth Engine's API for visualizing and analyzing gridded data products related to natural hazards and disasters.
+- Develop and refine effective techniques to present and interact with their analysis results, including through the use of Google Earth Engine Applications.
 ---
 
 ### Grade Breakdown
