@@ -25,10 +25,10 @@ You can download a shapefile of the August Complex Fire [here](https://drive.goo
 5.	Create a well-visualized map of the NBR in the study area. 
 
 
-### Your lab report should include:
-1.	An introduction (2-3 paragraph) which describes the August Complex fire and describes how remotely sensed images can be helpful for tracking wildfires and wildfire recovery. The introduction should also describe spectral indices and how they can be useful. 
-2.	A screenshot of your NBR map and a description of the spatial pattern you see in your NBR map (and an interpretation of the NBR values).
-3.	A conclusion that summarizes your results. 
+### Your lab report should:
+1.	Introduce (2-3 paragraph) the August Complex fire and describes how remotely sensed images can be helpful for tracking wildfires and wildfire recovery. The introduction should also describe spectral indices and how they can be useful. 
+2.	Include a screenshot of your NBR map and a description of the spatial pattern you see in your NBR map (and an interpretation of the NBR values).
+3.	Conclude by summarizing your results. 
 
 
 
