@@ -25,12 +25,12 @@ ERA-5 Land and RTMA, like the GRIDMET dataset used in Lab 1, is not remotely sen
 4.	Create two time series charts representing wind speed during the study period in Wilmington based on the two different datasets.
 
 
-### Your lab report should include:
-1.	An introduction that talks about Hurricane Florence’s impacts in North Carolina and why gridded climate re-analysis products can be helpful for tracking impacts of hurricanes.
-2.	A screenshot of your two time series charts.
-3.	A description of trends seen in the time series, including differences between the two products.
-4.	Some hypotheses for why differences exist between the products.
-5.	A conclusion that summarizes your results. 
+### Your lab report should:
+1.	Introduce Hurricane Florence’s impacts in North Carolina and why gridded climate re-analysis products can be helpful for tracking impacts of hurricanes.
+2.	Include a screenshot of your two time series charts.
+3.	Describe trends seen in the time series, including differences between the two products.
+4.	Hypothesize why differences exist between the products.
+5.	Conclude with a summary of your results. 
 
 You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. 
 You should cite your sources in APA format and include at least 1 peer-reviewed article. 
