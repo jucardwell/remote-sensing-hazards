@@ -13,6 +13,12 @@ This course introduces students to the capabilities of analyzing remotely-sensed
 
 Students will execute analyses in Google Earth Engine, primarily using GEE's JavaScript API. The curriculum emphasizes practical applications and hands-on learning, culminating in an independent research project. In this project, students will utilize GEE datasets related to natural hazards to conduct their own analyses on a hazard of interest, integrating the skills and knowledge acquired throughout the course.
 
+### Course Philosophy
+This course has been developed around the tenant that active learning is an evidence-backed technique for improving student outcomes in introductory programming classes (Berssanette and de Francisco, 2021). Over half of the instructional time of this course will be dedicated to hands-on-the-keyboard coding practice through various pedagogical techniques, such as pair-programming, project-based learning, and some tenants of a flipped classroom methodology. Employing these techniques allow for the development of an intensive and immediate feedback cycle from peers and the instructor which can speed up student comprehension and confidence with programming. Because active learning is a major component of this class, full participation is essential for success, which is why class participation makes up such a large component of the course grade. Students should arrive ready to be engaged and present for each class period.
+
+
+Berssanette, J. H., & de Francisco, A. C. (2021). Active learning in the context of the teaching/learning of computer programming: A systematic review. Journal of Information Technology Education. Research, 20, 201.
+
 
 ---
 
@@ -25,10 +31,11 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 ### Course Goals and Learning Outcomes
 By the end of the course, students will be able to:
 - Articulate the common environmental and social impacts of natural hazards and disasters, and how these impacts may evolve due to climate change.
-- Understand key concepts in remote sensing, including radiometry, spectral signatures, and the electromagnetic spectrum, and understnad the history and development of the field (including more recent developments like critical remote sensing)
-- Use JavaScript to access and manipulate Google Earth Engine's API for visualizing and analyzing gridded data products related to natural hazards and disasters.
+- Define key concepts in remote sensing, including radiometry, spectral signatures, and the electromagnetic spectrum, and identify key components of the history and development of the field (including more recent developments like critical remote sensing)
+- Employ JavaScript to access and manipulate Google Earth Engine's API for visualizing and analyzing gridded data products related to natural hazards and disasters.
 - Apply essential remote sensing analytical techniques, such as image classification, calculating indices, change detection, and temporal analysis, to real-world scenarios involving natural hazards.
 - Develop and refine effective techniques to present and interact with their analysis results, including through the use of Google Earth Engine Applications.
+  
 ---
 
 ### Grade Breakdown
