@@ -10,7 +10,7 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 </style>
 
 ------------------------------------------------------------------------
-## Lab 4
+## Lab 5
 
 In this lab, you will execute a change detection on two Sentinel-1 images – one soon before 
 Hurricane Florence and one during Hurricane Florence—to detect potentially flooded areas. 
@@ -27,9 +27,9 @@ Florence image (09-14-2018):
 5.	Create a well-visualized map identifying potentially flooded areas. 
 
 
-### Your lab report should include:
+### Your lab report should:
 1.	Introduce why SAR can be a useful tool for flood analysis and why obtaining quality satellite images during hurricanes can be challenging. Also describe why satellites often cannot perfectly capture flooded areas. 
-2.	A screenshot of your map
+2.	Include a screenshot of your map
 3.	Describe the spatial pattern of your map and identify areas that may have experienced significant flooding
 4.	Conclude with a paragraph that summarizes your results. 
  
