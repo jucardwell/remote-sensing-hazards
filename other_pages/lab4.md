@@ -16,7 +16,7 @@ In this lab, you will calculate median temperature values across census tracts i
 
 Satellites capture Land Surface Temperature (LST), which represents the temperature of the land surface itself. However, they do not measure ambient temperature, which is the temperature of the air. This distinction is crucial, as LST and ambient temperature can vary significantly. Understanding this difference is important because it affects how temperature is actually experienced by people in an area. The implications of these differences are essential for accurately studying phenomena like the urban heat island effect and for making informed decisions in urban planning and public health.
 
-You can download the Raleigh Census Tract shapefile [here](
+You can download the Raleigh Census Tract shapefile [here](https://drive.google.com/uc?export=download&id=1lviugjcKYZ7-WtjkRe3iR2bMlR83fQiX)
 
 ------------------------------------------------------------------------
 ### Your Google Earth Engine Script should:
