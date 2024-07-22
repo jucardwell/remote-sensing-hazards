@@ -15,4 +15,5 @@ has_toc: false
 | 2   | Using Indices     | TBD |
 | 3   | Time Series     | TBD  |
 | 4   | Aggregating and Presenting Data     | TBD |
+|5    | Change Detection | TBD | 
 
