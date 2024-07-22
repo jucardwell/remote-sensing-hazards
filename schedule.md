@@ -3,34 +3,34 @@ title: Schedule and Readings
 layout: default
 nav_order: 3
 ---
+Classes in **bold** denote classes dedicated to intensive coding skill-building
 
-| Class | Week | Topic                                                          | In Class Exercises            | Readings | Due |
-|-------|------|----------------------------------------------------------------|-------------------------------|----------|-----|
-| 1     | 1    | Syllabus review, what is Google Earth Engine                   |                               | TBD      |   |
-| 2     | 1    | What is remote sensing? What are Natural Hazards?              | Ex 1: Introduction to Javascript| TBD      | |
-| 3     | 2    | History of remote sensing                                      | Ex 2: Introduction to GEE API | TBD      |  |
-| 4     | 2    | Electromagnetic spectrum                                       | Ex 3: Working with Images     | TBD      |   |
-| 5     | 3    | Satellites, Sensors, Resolution                                | Ex 4: Working with Image Collections | TBD      |  |
-| 6     | 3    | Color theory, composites                                       | Ex 5: Visualizing Single Bands      | TBD      |  |
-| 7     | 4    | Image Transformation, Common Remote Sensing Tasks              | Ex 6: Visualizing Multiple Bands  | TBD      |
-| 8     | 4    | Critical remote sensing                                        | Ex 7: Mosaics and Composites| TBD      |
-| 9     | 5    | Natural Hazards Basics                                         | Ex 8: Feature Collections, Clipping, Exporting Data| TBD      |
-| 10    | 5    | Natural Hazards Basics- Hazards vs. Disasters                  | Ex 9: Mapping Over an Image Collection| TBD      |
-| 11    | 6    | Sensing the Climate- Important Datasets                        |Ex 10: Reducers | TBD | Critical Remote Sensing Short Paper |
-| 12    | 6    | Lab 1-   Climate Variables                                       |                               | TBD      |
-| 13    | 7    | Sensing Natural Hazards- Indices                               |Ex 11: Band Math | TBD      |
-| 14    | 7    | Lab 2-  Calculating Indices (Wildfires)                           |                               | TBD      |
-| 15    | 8    | Sensing Natural Hazards- Time Series Analysis                  |Ex 12: Time Series | TBD      |
-| 16    | 8    | Lab 3- Time Series (Hurricanes)                                  |                               | TBD      |
-| 23    | 12   | Sensing Natural Hazards- Presenting Results                    |                       | TBD      |
-| 24    | 12   | Lab 4- Aggregating Data (Urban Heat)                             |                               | TBD      |
-| 17    | 9    | Sensing Natural Hazards- Change Detection                      |Ex 13: Change Detection  | TBD      |
-| 18    | 9    | Lab 5- Change Detection (Flooding)                               || TBD      |
-| 19    | 10   | Sensing Natural Hazards- Supervised Classification         || TBD      |
-| 20    | 10   | Lab 6- Change Detection (XXXXX)                      | | TBD      |
-| 21    | 11   | Sensing Natural Hazards- Presenting Results- Dashboards  | Ex 14: GUI Development| TBD      |
-| 22    | 11   | Lab 7- GUI Development (Previous Analysis)                             || TBD      |
-| 25    | 13   | Developing a GUI for your Final Project                     || TBD      |
-| 26    | 13   | GUI Workday | | TBD      |
-| 27    | 14   | Presentations                                                  || TBD      |
-| 28    | 14   | Presentations                                                  || TBD      |
+| Class | Week | Topic                                                    | In Class                                                                          | Readings | Due                                 |
+| ----- | ---- | -------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- | ----------------------------------- |
+| 1     | 1    | What is Remote Sensing? What are Natural Hazards?        |                                                                                   |          |                                     |
+| 2     | 2    | History of remote sensing, critical remote sensing       |                                                                                   |          |                                     |
+| 3     | 2    | Natural Hazards Basics, Google Earth Engine Data Catalog |                                                                                   |          |                                     |
+| 4     | 3    | **Introduction to JavaScript and GEE API**                   | Ex 1: Introduction to Javascript, Ex 2: Introduction to GEE API                   |          |                                     |
+| 5     | 3    | Electromagnetic Spectrum                                 |                                                                                   |          |                                     |
+| 6     | 4    | **Working with Images, Working with Image Collections**      | Ex 3: Working with Images, Ex 4: Working with Image Collections                   |          | Critical Remote Sensing Short Paper |
+| 7     | 4    | Satellites, Sensors, resolution                          |                                                                                   |          |                                     |
+| 8     | 5    | **Visualizing Single Bands, Visualizing Multiple Bands**     | Ex 5: Visualizing Single Bands, Ex 6: Visualizing Multiple Bands                  |          |                                     |
+| 9     | 5    | Color Theory, Composites                                 |                                                                                   |          |                                     |
+| 10    | 6    | **Mosiacs and Composites, Feature Collections**              | Ex 7: Mosaics and Composites, Ex 8: Feature Collections, Clipping, Exporting Data |          |                                     |
+| 11    | 6    | Image Transformation, Common Remote Sensing Tasks        |                                                                                   |          |                                     |
+| 12    | 7    | **Mapping Over an Image Collection**                         | Ex 9: Mapping Over an Image Collection                                            |          | Project Task 1                      |
+| 14    | 7    | Sensing the Climate- Important Datasets                  | Ex 10: Reducers                                                                   |          |                                     |
+| 15    | 8    |**Lab 1- Climate Variables**                                 |                                                                                   |          |                                     |
+| 16    | 8    | Sensing Natural Hazards- Indices                         | Ex 11: Band Math                                                                  |          | Lab 1                               |
+| 17    | 9    | **Lab 2- Calculating Indices (Wildfires)**                   |                                                                                   |          |                                     |
+| 18    | 9    | Sensing Natural Hazards- Time Series Analysis            | Ex 12: Time Series                                                                |          | Lab 2                               |
+| 19    | 10   | **Lab 3- Time Series (Hurricanes)**                          |                                                                                   |          | Project Task 2                      |
+| 20    | 10   | Sensing Natural Hazards- Presenting Results              |                                                                                   |          | Lab 3                               |
+| 21    | 11   | **Lab 4- Aggregating Data (Urban Heat)**                     |                                                                                   |          |                                     |
+| 22    | 11   | Sensing Natural Hazards- Change Detection                | Ex 13: Change Detection                                                           |          | Lab 4                               |
+| 23    | 12   | **Lab 5- Change Detection (Flooding)**                       |                                                                                   |          |                                     |
+| 24    | 12   | Sensing Natural Hazards- Presenting Results- Dashboards  | Ex 14: GUI Development                                                            |          | Lab 5                               |
+| 25    | 13   | **Lab 6- GUI Development (Previous Analysis)**               |                                                                                   |          | Project Task 3                      |
+| 26    | 13   | Developing a GUI for your Final Project                  |                                                                                   |          | Lab 6                               |
+| 27    | 14   | **GUI Workday**                                              |                                                                                   |          |                                     |
+| 28    | 14   | Catch up                                                 |                                                                                   |          |                                     |
