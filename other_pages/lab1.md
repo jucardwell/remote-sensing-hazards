@@ -26,11 +26,11 @@ GRIDMET is a gridded surface meteorological dataset that provides daily estimate
 6.	Use the .reduceRegions function to calculate the mean value of your two composites in US counties and export this as an .csv file. 
 
 
-### Your lab report should include:
-1.	An introduction (2-3 paragraphs) that talks about the importance of understanding climate averages of different regions and how remotely sensed data (and other gridded data products available in GEE) are helpful for this task.  In addition, it should introduce the GRIDMET dataset and why it is an appropriate product for this type of analysis. 
-2.	Screenshots of the two maps you have created and a description of the spatial pattern of the two variables across the US. 
-3.	A description of the output of your .reduceRegions function, and how it aligns with the maps.
-4.	A concluding paragraph that summarizes your results from this lab. 
+### Your lab report should:
+1.	Introduce (2-3 paragraphs) the importance of understanding climate averages of different regions and how remotely sensed data (and other gridded data products available in GEE) are helpful for this task.  In addition, it should introduce the GRIDMET dataset and why it is an appropriate product for this type of analysis. 
+2.	Include screenshots of the two maps you have created and a description of the spatial pattern of the two variables across the US. 
+3.	Describe the output of your .reduceRegions function, and how it aligns with the maps.
+4.	Conclude by summarizing your results from this lab. 
 
 
 You will submit your GEE script, your .csv file, and your completed lab report. Your lab report should be approximately 500 words. 
