@@ -45,7 +45,7 @@ The participation component of the course grade will be made up of in-class part
 exercises.
 
 **Labs (50%):**
-There will be 8 labs that will be completed throughout the course and will be graded on accuracy. These
+There will be 5 labs that will be completed throughout the course and will be graded on accuracy. These
 assignments are designed to have students independently implement skills learned through course material and in-class
 exercises.
 
