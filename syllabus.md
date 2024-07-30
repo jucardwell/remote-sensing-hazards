@@ -16,9 +16,12 @@ Students will execute analyses in Google Earth Engine, primarily using GEE's Jav
 ### Course Philosophy
 This course has been developed around the tenant that active learning is an evidence-backed technique for improving student outcomes in introductory programming classes (Berssanette and de Francisco, 2021). Over half of the instructional time of this course will be dedicated to hands-on-the-keyboard coding practice through various pedagogical techniques, such as pair-programming, project-based learning, and some tenants of a flipped classroom methodology. Employing these techniques allow for the development of an intensive and immediate feedback cycle from peers and the instructor which can speed up student comprehension and confidence with programming. Because active learning is a major component of this class, full participation is essential for success, which is why class participation makes up such a large component of the course grade. Students should arrive ready to be engaged and present for each class period.
 
+In large part, this class will be based on collaborative learning. Labs will be completed using the pair-programming technique (two people working together on a single computer, with a driver (coding) and a navigator (reviewing)). The final project will be group-based and will involve self and peer reflection as a large component of the project grade. The CRediT (Contributor Roles Taxonomy) authorship roles will recognize individual contributions of group members to the final project. 
+
+Collaborative learning breaks the traditional solitary nature of coding, fostering active engagement and shared problem-solving. By working together, students not only learn coding concepts more deeply, but also develop critical soft skills like communication and teamwork, which are essential in real-world development environments.  This approach may not be the norm yet, but its effectiveness in enhancing learning outcomes and preparing students for careers is undeniable.
+
 
 Berssanette, J. H., & de Francisco, A. C. (2021). Active learning in the context of the teaching/learning of computer programming: A systematic review. Journal of Information Technology Education. Research, 20, 201.
-
 
 ---
 
