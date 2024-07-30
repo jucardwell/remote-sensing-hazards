@@ -32,6 +32,6 @@ You can download a shapefile of the August Complex Fire [here](https://drive.goo
 
 
 
-You will submit your GEE script, your .csv file, and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
+You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
 
 You should cite your sources in APA format and include at least 1 peer-reviewed article. 
