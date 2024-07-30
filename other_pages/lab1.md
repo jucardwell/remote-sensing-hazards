@@ -33,6 +33,8 @@ GRIDMET is a gridded surface meteorological dataset that provides daily estimate
 4.	Conclude by summarizing your results from this lab. 
 
 
-You will submit your GEE script, your .csv file, and your completed lab report. Your lab report should be approximately 500 words. 
+You will submit your GEE script, your .csv file, and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
+
 You should cite your sources in APA format and include at least 1 peer-reviewed article. 
+
 
