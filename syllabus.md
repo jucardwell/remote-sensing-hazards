@@ -44,22 +44,22 @@ By the end of the course, students will be able to:
 ### Grade Breakdown
 
 **Class Participation (25%):**
-The participation component of the course grade will be made up of in-class participation, as well as effort on in-class
+The participation component of the course grade will be made up of your individual in-class participation, as well as effort on in-class
 exercises.
 
 **Labs (50%):**
-There will be 5 labs that will be completed throughout the course and will be graded on accuracy. These
-assignments are designed to have students independently implement skills learned through course material and in-class
-exercises.
+There will be 5 labs that will be completed throughout the course. These
+assignments are designed to have students collaboratively implement skills learned through course material and in-class
+exercises. Labs will be completed in the pair-programming style. 70% of the lab grade will be based on the quality of the material, the other 30% will be based on self-reflection of contribution to the lab. 
 
 **Project Tasks (10%):**
 Project tasks will allow students to iteratively develop their final projects throughout the course of the semester. Each
 task will allow students to complete a portion of their final project and allow the instructor to give feedback throughout
-the semester.
+the semester. 70% of the task grade will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the project task. 
 
 **Final Project (10%):**
 The final project will be a polished version of the completed project tasks that also implement any instructor feedback
-given on individual project tasks.
+given on individual project tasks.70% of the final project will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the final project
 
 **Final Presentation (5%):**
 Students will give a 6–8-minute presentation on their final project during the course exam period.
