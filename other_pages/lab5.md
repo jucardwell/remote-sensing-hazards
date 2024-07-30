@@ -34,4 +34,4 @@ Florence image (09-14-2018):
 4.	Conclude with a paragraph that summarizes your results. 
  
 
-You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. You will also submit a peer reflection of your contribution to the lab. 
+You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
