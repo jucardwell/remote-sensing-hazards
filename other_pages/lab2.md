@@ -26,12 +26,10 @@ You can download a shapefile of the August Complex Fire [here](https://drive.goo
 
 
 ### Your lab report should:
-1.	Introduce (2-3 paragraph) the August Complex fire and describes how remotely sensed images can be helpful for tracking wildfires and wildfire recovery. The introduction should also describe spectral indices and how they can be useful. 
+1.	Introduce (2-3 paragraph) the August Complex fire and describe how remotely sensed images can be helpful for tracking wildfires and wildfire recovery. The introduction should also describe spectral indices and how they can be useful. 
 2.	Include a screenshot of your NBR map and a description of the spatial pattern you see in your NBR map (and an interpretation of the NBR values).
 3.	Conclude by summarizing your results. 
 
 
 
-You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
-
-You should cite your sources in APA format and include at least 1 peer-reviewed article. 
+You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. You should cite your sources in APA format and include at least 1 peer-reviewed article. 
