@@ -44,10 +44,10 @@ By the end of the course, students will be able to:
 ### Grade Breakdown
 
 **Class Participation (25%):**
-The participation component of the course grade will be made up of your individual in-class participation, as well as effort on pair-programming in-class exercises.
+The participation component of the course grade will be made up of your individual in-class participation, as well as effort on pair-programming in-class exercises. Pairs will turn in whatever they have completed by the end of the project period for completion credit. Each member of the pair should save a copy of the script. If the exercise is incomplete at the end of class, it should be completed independently outside of class. 
 
 **Labs (50%):**
-There will be 5 labs that will be completed throughout the course. These
+There will be 6 labs that will be completed throughout the course. These
 assignments are designed to have students independently implement skills learned through course material and in-class
 exercises. 
 
