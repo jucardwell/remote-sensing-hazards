@@ -9,14 +9,14 @@ Abbreviated Syllabus [Download full syllabus here](https://drive.google.com/uc?e
 
 
 ### Course Description
-This course introduces students to the capabilities of analyzing remotely-sensed and other spatial gridded data products through Google Earth Engine (GEE). With a focus on utilizing these data products to monitor the impacts of natural hazards, the course combines comprehensive remote sensing topics—including theory, data acquisition, and data analysis—with a deep understanding of natural hazards (including their potential to become disasters), and the remote sensing products available for monitoring these events and their environmental impacts.
+This course introduces students to the capabilities of analyzing remotely-sensed and other spatial gridded data products through Google Earth Engine (GEE). With a focus on utilizing these data products to monitor the impacts of natural hazards, the course combines comprehensive remote sensing topics—including theory, data acquisition, and data analysis—with a deep understanding of natural hazards (including their potential to become disasters), and the products available for monitoring these events and their environmental impacts.
 
 Students will execute analyses in Google Earth Engine, primarily using GEE's JavaScript API. The curriculum emphasizes practical applications and hands-on learning, culminating in an independent research project. In this project, students will utilize GEE datasets related to natural hazards to conduct their own analyses on a hazard of interest, integrating the skills and knowledge acquired throughout the course.
 
 ### Course Philosophy
-This course has been developed around the tenant that active learning is an evidence-backed technique for improving student outcomes in introductory programming classes (Berssanette and de Francisco, 2021). Over half of the instructional time of this course will be dedicated to hands-on-the-keyboard coding practice through various pedagogical techniques, such as pair-programming, project-based learning, and some tenants of a flipped classroom methodology. Employing these techniques allow for the development of an intensive and immediate feedback cycle from peers and the instructor which can speed up student comprehension and confidence with programming. Because active learning is a major component of this class, full participation is essential for success, which is why class participation makes up such a large component of the course grade. Students should arrive ready to be engaged and present for each class period.
+This course has been developed around the tenant that active learning is an evidence-backed technique for improving student outcomes in introductory programming classes (Berssanette and de Francisco, 2021). Over half of the instructional time of this course will be dedicated to hands-on-the-keyboard coding practice through various pedagogical techniques, such as pair-programming, project-based learning, and some tenants of a flipped classroom methodology. Employing these techniques allow for the development of an intensive and immediate feedback cycle from peers and the instructor, which can speed up student comprehension and confidence with programming. Because active learning is a major component of this class, full participation is essential for success, which is why class participation makes up such a large component of the course grade. Students should arrive ready to be engaged and present for each class period.
 
-In large part, this class will be based on collaborative learning. Labs will be completed using the pair-programming technique (two people working together on a single computer, with a driver (coding) and a navigator (reviewing)). The final project will be group-based and will involve self and peer reflection as a large component of the project grade. The CRediT (Contributor Roles Taxonomy) authorship roles will recognize individual contributions of group members to the final project. 
+In large part, this class will be based on collaboration. The first half of the semester will introduce students to coding in Google Earth Engine using the pair-programming technique to complete in-class exercises (two people working together on a single computer, with a driver (coding) and a navigator (reviewing)). Hands-on-the-keyboard practice will be supplemented with lectures that employ additional active learning techniques to introduce students to important theoretical concepts in remote sensing and disaster studies. The second half of the semester will include significant lab time, where students are asked to independently implement techniques learned in the first half of class. The final project will be group-based and will involve self and peer reflection as a large component of the project grade. The CRediT (Contributor Roles Taxonomy) authorship roles will recognize individual contributions of group members to the final project. 
 
 Collaborative learning breaks the traditional solitary nature of coding, fostering active engagement and shared problem-solving. By working together, students not only learn coding concepts more deeply, but also develop critical soft skills like communication and teamwork, which are essential in real-world development environments.  This approach may not be the norm yet, but its effectiveness in enhancing learning outcomes and preparing students for careers is undeniable.
 
@@ -44,25 +44,24 @@ By the end of the course, students will be able to:
 ### Grade Breakdown
 
 **Class Participation (25%):**
-The participation component of the course grade will be made up of your individual in-class participation, as well as effort on in-class
-exercises.
+The participation component of the course grade will be made up of your individual in-class participation, as well as effort on pair-programming in-class exercises.
 
 **Labs (50%):**
 There will be 5 labs that will be completed throughout the course. These
 assignments are designed to have students collaboratively implement skills learned through course material and in-class
-exercises. Labs will be completed in the pair-programming style. 70% of the lab grade will be based on the quality of the material, the other 30% will be based on self-reflection of contribution to the lab. 
+exercises. Labs will be completed independently. 
 
 **Project Tasks (10%):**
 Project tasks will allow students to iteratively develop their final projects throughout the course of the semester. Each
 task will allow students to complete a portion of their final project and allow the instructor to give feedback throughout
-the semester. 70% of the task grade will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the project task. 
+the semester. 70% of the task grade will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the group for each project task. 
 
 **Final Project (10%):**
 The final project will be a polished version of the completed project tasks that also implement any instructor feedback
-given on individual project tasks.70% of the final project will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the final project
+given on individual project tasks. 70% of the final project will be based on quality of the material, the other 30% will be based on self-reflection of contribution to the final project
 
 **Final Presentation (5%):**
-Students will give a 6–8-minute presentation on their final project during the course exam period.
+Groups will give a 15-20 minute presentation on their final project during the course exam period.
 
 ###  Grade Scale
 
