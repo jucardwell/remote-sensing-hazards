@@ -48,8 +48,8 @@ The participation component of the course grade will be made up of your individu
 
 **Labs (50%):**
 There will be 5 labs that will be completed throughout the course. These
-assignments are designed to have students collaboratively implement skills learned through course material and in-class
-exercises. Labs will be completed independently. 
+assignments are designed to have students independently implement skills learned through course material and in-class
+exercises. 
 
 **Project Tasks (10%):**
 Project tasks will allow students to iteratively develop their final projects throughout the course of the semester. Each
