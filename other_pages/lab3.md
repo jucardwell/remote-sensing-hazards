@@ -32,6 +32,4 @@ ERA-5 Land and RTMA, like the GRIDMET dataset used in Lab 1, is not remotely sen
 4.	Hypothesize why differences exist between the products.
 5.	Conclude with a summary of your results. 
 
-You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
-
-You should cite your sources in APA format and include at least 1 peer-reviewed article. 
+You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. You should cite your sources in APA format and include at least 1 peer-reviewed article. 
