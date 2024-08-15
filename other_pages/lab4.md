@@ -33,6 +33,4 @@ You can download the Raleigh Census Tract shapefile [here](https://drive.google.
 3.	Describe the results you have found. What important patterns exist? What are the potential implications of these patterns across the city? Can you make connections between these patterns and any social or economic factors?
 4.	Conclude with a description of why these results are important. 
 
-You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words. Only one person needs to submit the material, so please include the name of both lab partners. You will also complete a self-evaluation of your contribution to the lab.  
-
-You should cite your sources in APA format and include at least 1 peer-reviewed article. 
+You will submit your GEE script and your completed lab report. Your lab report should be approximately 500 words.You should cite your sources in APA format and include at least 1 peer-reviewed article. 
