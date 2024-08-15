@@ -16,4 +16,5 @@ has_toc: false
 | 3   | Time Series     | TBD  |
 | 4   | Aggregating and Presenting Data     | TBD |
 |5    | Change Detection | TBD | 
+|6    | GUI Development | TBD | 
 
