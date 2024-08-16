@@ -3,6 +3,7 @@ title: In-Class Exercises
 layout: default
 nav_order: 4
 ---
+To access these exercises, you must sign into your GEE account. After following the link, you will save your own version of the file to your GEOGXXXX repository. 
 
 ## Class 2
 Exercise 1: [Introduction to JavaScript](https://code.earthengine.google.com/5a5bbcb4c57bc7d1b2ed37be3ba9bfcb?hl=it)
