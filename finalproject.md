@@ -11,8 +11,8 @@ has_toc: false
 
 | Project Task | Name | Due Date     |
 |--------------|------|--------------|
-| 1            | Extract Project Data     | May 31, 5pm  |
-| 2            | Spatialize Project Data     | June 5, 5pm  |
-| 3            |  Exploratory Data Analysis    | June 11, 5pm |
+| 1            | Explore Data and Literature     |  |
+| 2            | Develop a Research Question     |  |
+| 3            |  Analyze Data    |  |
 
 ------------------------------------------------------------------------
