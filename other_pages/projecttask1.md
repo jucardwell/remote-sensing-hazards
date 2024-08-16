@@ -18,72 +18,29 @@ div.blue { background-color:#e0f0ff; padding: 10px 10px 3px 10px;}
 ------------------------------------------------------------------------
 # Final Project Task 1
 
-For this assignment you are required to demonstrate (within an R
-Markdown document) that you can extract census data using the tigris and
-tidycensus packages,and display/manipulate each data layer.
-
-------------------------------------------------------------------------
-# [**Download the Help Document Here**](https://drive.google.com/uc?export=download&id=1jGwN_okjDHMhwz8pBGd8IGC_iYwhZ4v4)
-### Set Up
-
-On your computer, set up a folder structure for your final project if
-you have not done so. I would suggest having a top-level folder called
-“Final\_project” that is located within the folder you’re storing the
-information for Geography 215. Within that folder, you should have a
-“Data” and a “Code” subfolder. Take a screenshot of your folder
-structure and submit it with the assignment.
-
-### Extract and Work with Data
-
-As discussed in class, the data for the final project must come from the
-Census Bureau. You will be using the tidycensus and tigris packages to
-extract a tabular and spatial dataset. Follow instructions in
-Extracting-FinalProject-Data.Rmd.
-
-Create a new .Rmd document and save it as
-**Lastname**\_GEOG215\_Project\_DataPreparation.Rmd (using your last
-name) and save it (I would suggest saving it to a location such as
-**Final\_project/Code** &lt;&lt; hint hint).
-
-**Detailed requirements for the .Rmd document:**
-
--   Include a separate R code chunk (with a third level heading) that
-    loads libraries
-
--   Include a separate R code chunk (with a third level heading) that
-    extracts data from the American Community Survey and a spatial
-    dataset to match your social data. Follow instructions in
-    Extracting-FinalProject-Data.Rmd. Within that same code chunk, make
-    **one** minor calculation or modification of one of the layers, such
-    as “sum a column”, “subset/filter the observations”, or “change the
-    name of a column”. For most people, they will create a percent or
-    ratio from an estimate and total (shown in the
-    Extracting-FinalProject-Data.Rmd). If you do not need to create a
-    percent, you may chose to filter out geographies with NULL values,
-    or change a column name.
-
--   Using regular text below the previous code chunk, explain the minor
-    calculation or modification of the layer that you performed in the
-    code chunk above. How do you know the command worked? (2-3
-    sentences)
-
--   Include a separate R code chunk (with third level heading) that makes a simple map using the spatial data layer. 
-
-
-**Other requirements:**
-
--   Use headings in the .Rmd document to separate R code chunks  
--   Make sure to comment your R commands
--   Spellcheck and then knit your document when complete  
--   Review the knitted output to make sure that everything worked
-    correctly!
+For this assignment you will select your hazard of interest and identify three potential datasets from the Google Earth Engine catalog that you could use to analyze this hazard. 
 
 ------------------------------------------------------------------------
 
-### Deliverables
+### Selecting Hazard of Interest:
+You must select a hazard that can be meaningfully analyzed using remotely sensed data, or another gridded data product available in the Google Earth Engine Data Catalog. However, you may choose to focus on a discrete event, a single day, a change analysis,a summary of a hazard, or tracking environmental recovery from a hazard. 
 
-*Lastname*\_GEOG215\_Project\_DataPreparation.Rmd  
-*Lastname*\_GEOG215\_Project\_DataPreparation.html  
-*Lastname*\_project\_folders.xxx
+### Selecting Potential Datasets:
+You must select at least three potential datasets from the Google Earth Engine Data Catalog. These datasets must be at a correct temporal scale (for instance, you can't do an daily analysis on monthly data), cover the correct geographical area, and contain a variable that can be effectively analyzed to provide some information about the hazard of interest.
+
+### Introductory Research on Hazard:
+You will create an annotated bibliography of at least 10 peer-reviewed academic articles. These articles can relate to the hazard, to the dataset, or to remote sensing methodologies. Your annotated bibliography should follow the guidelines from the [UNC Writing Center](https://writingcenter.unc.edu/tips-and-tools/annotated-bibliographies/)
+
+
+------------------------------------------------------------------------
+
+### Your final project task 1 should include:
+- A paragraph that clearly lays out the hazard you have selected, including the temporal and spatial scale
+- A brief paragraph for each of the three potential datasets that describes the dataset and provides a justification for why this dataset would be a good fit for your final project
+- Your annotated bibliography
+
+
+
+
 
  
