@@ -9,7 +9,7 @@ Classes in **bold** denote classes dedicated to intensive coding skill-building
 | ----- | ---- | -------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- | ----------------------------------- |
 | 1     | 1    | What is Remote Sensing? What are Natural Hazards?        |                                                                                   |          |                                     |
 | 2     | 2    | History of remote sensing, critical remote sensing, natural hazards basics       |                                                                                   |          |                                     |
-| 3     | 2    | Open Science, Google Earth Engine Data Catalog |                                                                                   |          |                                     |
+| 3     | 2    | Working with Academic Articles, Google Earth Engine Data Catalog |                                                                                   |          |                                     |
 | 4     | 3    | **Introduction to JavaScript and GEE API**                   | Ex 1: Introduction to Javascript, Ex 2: Introduction to GEE API                   |          |  Ex. 1-2                                   |
 | 5     | 3    | Electromagnetic Spectrum                                 |                                                                                   |          |                                     |
 | 6     | 4    | **Working with Images, Working with Image Collections**      | Ex 3: Working with Images, Ex 4: Working with Image Collections                   |          | Ex. 3-4|
@@ -29,7 +29,7 @@ Classes in **bold** denote classes dedicated to intensive coding skill-building
 | 21    | 11   | **Lab 4- Aggregating Data (Urban Heat)**                     |                                                                                   |          |                                     |
 | 22    | 11   | Sensing Natural Hazards- Change Detection                | Ex 13: Change Detection                                                           |          | Lab 4, Ex. 13                              |
 | 23    | 12   | **Lab 5- Change Detection (Flooding)**                       |                                                                                   |          |                                     |
-| 24    | 12   | Sensing Natural Hazards- Presenting Results- Dashboards  | Ex 14: GUI Development                                                            |          | Lab 5, Ex. 14                               |
+| 24    | 12   | Sensing Natural Hazards- Presenting Results | Ex 14: GUI Development                                                            |          | Lab 5, Ex. 14                               |
 | 25    | 13   | **Lab 6- GUI Development (Previous Analysis)**               |                                                                                   |          | Project Task 3                      |
 | 26    | 13   | Developing a GUI for your Final Project                  |                                                                                   |          | Lab 6                               |
 | 27    | 14   | **GUI Workday**                                              |                                                                                   |          |                                     |
